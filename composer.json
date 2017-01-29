@@ -21,7 +21,7 @@
   "repositories": [
     {
       "type": "artifact",
-      "url": "https://github.com/merhawifissehaye/commentSecurityCheck.git"
+      "url": "https://github.com/merhawifissehaye/comment-security-check.git"
     }
   ]
 }
