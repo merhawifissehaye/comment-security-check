@@ -17,5 +17,11 @@
     "psr-4": {
       "MFissehaye\\CommentSecurityCheck\\": "src"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "artifact",
+      "url": "https://github.com/merhawifissehaye/commentSecurityCheck.git"
+    }
+  ]
 }
