@@ -1,0 +1,21 @@
+{
+  "name": "mfissehaye/CommentSecurityCheck",
+  "description": "A security check plugin for mfissehaye/CommentSystem",
+  "license": "MIT",
+  "keywords": ["mfissehaye"],
+  "authors": [
+    {
+      "name": "Merhawi Fissehaye",
+      "email": "merhawifissehaye@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "MFissehaye\\CommentSecurityCheck\\": "src"
+    }
+  }
+}
